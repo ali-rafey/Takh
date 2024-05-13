@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "44460991792",
+    "project_id": "takhleeqish",
+    "storage_bucket": "takhleeqish.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44460991792:android:a2b75c9a4a34b4c199d4f5",
+        "android_client_info": {
+          "package_name": "com.example.takhleekish"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBe5OzkdNIeRWs9AvQIktUcrXP6XU-Wq8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
